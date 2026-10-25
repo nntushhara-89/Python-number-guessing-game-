@@ -1,8 +1,4 @@
-# Python-number-guessing-game-
-A beginner- friendly Python number guessing game with HOT ans COLD hints
-
-# Python Number Guessing Game
-
+# Python-number-guessing-game
 A beginner-friendly command-line game built with Python. The player
 tries to guess a randomly generated secret number and receives hints
 until the correct answer is found.
